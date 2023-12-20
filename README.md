@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joao-vg" alt="joao-vg" /></a> </p>
 
-- 🌱 I’m currently learning **React and React Native, Vue , Angular , Nest Js**
+- 🌱 I’m currently learning **React and Node**
 
 - 💬 Ask me about **React Js**
 
