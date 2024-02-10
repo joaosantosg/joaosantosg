@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **jv18.victor@gmail.com**
 
-- ⚡ Fun fact **I do cool stuffs with assembly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
