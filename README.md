@@ -32,11 +32,10 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaosantosg&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaosantosg&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaosantosg&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-</p>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaosantosg&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=joaosantosg&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosantosg&show_icons=true&locale=en&layout=compact" alt="joaosantosg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaosantosg&show_icons=true&locale=en" alt="joaosantosg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaosantosg&" alt="joaosantosg" /></p>
