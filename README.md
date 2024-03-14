@@ -11,9 +11,9 @@ public class SobreMim extends Desenvolvedor {
 }
 
 public class Skills extends Desenvolvedor {
-    String[] linguagens = {"JavaScript", "Python", "Java"};
-    String[] bibliotecas = {};
-    String[] frameworks = {"Node.js", "Spring Boot", "NestJS", "React", "Angular"};
+    String[] linguagens = ["JavaScript", "Python", "Java"];
+    String[] bibliotecas = ["React Js"];
+    String[] frameworks = ["Node.js", "Spring Boot", "NestJS", "React", "Angular"];
 }
 
 ```
