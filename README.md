@@ -3,16 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaosantosg&label=Profile%20views&color=0e75b6&style=flat" alt="joaosantosg" /> </p>
 
 ```java
-public class AboutMe extends Desenvolvedor {
-    String nome = "João Victor";
+public class AboutMe {
+    String name = "João Victor";
     String area = "Full stack developer";
-    String trabalho = "Equitys Tecnologia";
-    String local = "Brazil";
+    String job = "Equitys Tecnologia";
+    String location = "Brazil";
 }
 
-public class Skills extends Desenvolvedor {
-    String[] linguagens = {"JavaScript", "Python", "Java"};
-    String[] bibliotecas = {"React Js"};
+public class Skills {
+    String[] languages = {"JavaScript", "Python", "Java"};
+    String[] libraries = {"React Js"};
     String[] frameworks = {"Node.js", "Spring Boot", "NestJS", "React", "Angular"};
 }
 
