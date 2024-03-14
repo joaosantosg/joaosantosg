@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaosantosg&label=Profile%20views&color=0e75b6&style=flat" alt="joaosantosg" /> </p>
 
 ```java
-public class SobreMim extends Desenvolvedor {
+public class AboutMe extends Desenvolvedor {
     String nome = "João Victor";
     String area = "Full stack developer";
     String trabalho = "Equitys Tecnologia";
@@ -11,9 +11,9 @@ public class SobreMim extends Desenvolvedor {
 }
 
 public class Skills extends Desenvolvedor {
-    String[] linguagens = ["JavaScript", "Python", "Java"];
-    String[] bibliotecas = ["React Js"];
-    String[] frameworks = ["Node.js", "Spring Boot", "NestJS", "React", "Angular"];
+    String[] linguagens = {"JavaScript", "Python", "Java"};
+    String[] bibliotecas = {"React Js"};
+    String[] frameworks = {"Node.js", "Spring Boot", "NestJS", "React", "Angular"};
 }
 
 ```
