@@ -56,8 +56,8 @@ public class Skills {
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
     </a>
 </div>
-<div>
-    <!-- Backend and Database -->
+<!-- <div>
+    Backend and Database
     <a href="https://www.docker.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </a>
@@ -67,7 +67,7 @@ public class Skills {
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </a>
-</div>
+</div> -->
 
 
 
