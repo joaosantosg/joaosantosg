@@ -11,7 +11,7 @@ public class AboutMe {
 }
 
 public class Skills {
-    String[] languages = {"JavaScript", "Python", "Java"};
+    String[] languages = {"JavaScript", "Python", "Java", "PHP"};
     String[] libraries = {"React Js"};
     String[] frameworks = {"Node.js", "Spring Boot", "NestJS", "React", "Angular"};
 }
