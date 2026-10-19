@@ -46,4 +46,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaosantosg&theme=nord_dark" alt="Estatísticas" height="170" />
 </p>
 
-<sub>Boa parte do meu trabalho está em repositórios privados. O gráfico de contribuições conta tudo desde 2019.</sub>
