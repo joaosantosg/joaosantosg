@@ -38,16 +38,6 @@
 
 ---
 
-## 🚀 Projetos em destaque
-
-| Projeto | O que é |
-|---|---|
-| [**akcit-predicao**](https://github.com/joaosantosg/akcit-predicao) | Modelo preditivo de notas de corte e chance de aprovação nos processos seletivos do AKCIT (UFG), com [apresentação interativa](https://joaosantosg.github.io/akcit-predicao/). |
-| [**verificador-robocode-2025**](https://github.com/joaosantosg/verificador-robocode-2025) | Scripts em Python que geram os resultados oficiais das equipes a partir das partidas do Robocode. |
-| [**assembly-web-server**](https://github.com/joaosantosg/assembly-web-server) | Aplicação web feita só em Assembly (flat assembler). Experimento de baixo nível. |
-
----
-
 ## 📊 GitHub
 
 <p align="center">
